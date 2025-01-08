@@ -1,4 +1,4 @@
-module github.com/tufin/oasdiff
+module github.com/yn425611317/oasdiff
 
 go 1.22.3
 
